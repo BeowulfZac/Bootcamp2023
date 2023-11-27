@@ -54,3 +54,4 @@ sudo a2ensite prueba1
 sudo systemctl reload apache2
 touch  /var/www/prueba1/index.html
 echo  "<h1>It works...</h1><p>This is the landing page of <strong>prueba1</strong>.</p>" > /var/www/prueba1/index.html
+git clone  git@github.com:roxsross/bootcamp-devops-2023.git
